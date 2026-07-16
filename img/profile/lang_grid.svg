@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" width="100%">
+  <defs>
+    <linearGradient id="lgBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#191724"/>
+      <stop offset="100%" stop-color="#1f1d2e"/>
+    </linearGradient>
+    <style>
+      @keyframes fadeBadge {
+        from { opacity: 0; transform: scale(0.95); }
+        to   { opacity: 1; transform: scale(1); }
+      }
+    </style>
+  </defs>
+
+  <rect width="400" height="250" rx="8" fill="url(#lgBg)" stroke="#403d52" stroke-width="1"/>
+
+  
+    <g opacity="0" style="animation:fadeBadge 0.3s 0.1s forwards">
+      <rect x="10" y="10" width="154.47154471544715" height="230" rx="3"
+            fill="#3572A5" opacity="0.9"/>
+      <text x="87.0" y="122" text-anchor="middle"
+            font-family="'JetBrains Mono',monospace" font-size="14" fill="#e0def4" font-weight="bold">
+        Python
+      </text>
+      <text x="87.0" y="139" text-anchor="middle"
+            font-family="'JetBrains Mono',monospace" font-size="13" fill="#e0def4" opacity="0.85">
+        41%
+      </text>
+    </g>
+
+    <g opacity="0" style="animation:fadeBadge 0.3s 0.16s forwards">
+      <rect x="164.47154471544715" y="10" width="92.6829268292683" height="230" rx="3"
+            fill="#f1e05a" opacity="0.9"/>
+      <text x="210.47154471544715" y="122" text-anchor="middle"
+            font-family="'JetBrains Mono',monospace" font-size="14" fill="#191724" font-weight="bold">
+        JavaScript
+      </text>
+      <text x="210.47154471544715" y="139" text-anchor="middle"
+            font-family="'JetBrains Mono',monospace" font-size="13" fill="#191724" opacity="0.85">
+        24%
+      </text>
+    </g>
+
+    <g opacity="0" style="animation:fadeBadge 0.3s 0.22s forwards">
+      <rect x="257.1544715447154" y="10" width="132.84552845528455" height="106.9767441860465" rx="3"
+            fill="#3178c6" opacity="0.9"/>
+      <text x="323.1544715447154" y="60.0" text-anchor="middle"
+            font-family="'JetBrains Mono',monospace" font-size="14" fill="#e0def4" font-weight="bold">
+        TypeScript
+      </text>
+      <text x="323.1544715447154" y="77.0" text-anchor="middle"
+            font-family="'JetBrains Mono',monospace" font-size="13" fill="#e0def4" opacity="0.85">
+        16%
+      </text>
+    </g>
+
+    <g opacity="0" style="animation:fadeBadge 0.3s 0.28s forwards">
+      <rect x="257.1544715447154" y="116.9767441860465" width="132.84552845528455" height="53.488372093023244" rx="3"
+            fill="#f34b7d" opacity="0.9"/>
+      <text x="323.1544715447154" y="139.97674418604652" text-anchor="middle"
+            font-family="'JetBrains Mono',monospace" font-size="10" fill="#191724" font-weight="bold">
+        C++
+      </text>
+      <text x="323.1544715447154" y="152.97674418604652" text-anchor="middle"
+            font-family="'JetBrains Mono',monospace" font-size="9" fill="#191724" opacity="0.85">
+        8%
+      </text>
+    </g>
+
+    <g opacity="0" style="animation:fadeBadge 0.3s 0.34s forwards">
+      <rect x="257.1544715447154" y="170.46511627906975" width="81.75109443402127" height="69.53488372093025" rx="3"
+            fill="#e34c26" opacity="0.9"/>
+      <text x="297.1544715447154" y="201.46511627906975" text-anchor="middle"
+            font-family="'JetBrains Mono',monospace" font-size="13" fill="#e0def4" font-weight="bold">
+        HTML
+      </text>
+      <text x="297.1544715447154" y="217.46511627906975" text-anchor="middle"
+            font-family="'JetBrains Mono',monospace" font-size="12" fill="#e0def4" opacity="0.85">
+        7%
+      </text>
+    </g>
+
+    <g opacity="0" style="animation:fadeBadge 0.3s 0.4s forwards">
+      <rect x="338.9055659787367" y="170.46511627906975" width="51.09443402126328" height="69.53488372093025" rx="3"
+            fill="#563d7c" opacity="0.9"/>
+      <text x="363.9055659787367" y="201.46511627906975" text-anchor="middle"
+            font-family="'JetBrains Mono',monospace" font-size="10" fill="#e0def4" font-weight="bold">
+        CSS
+      </text>
+      <text x="363.9055659787367" y="214.46511627906975" text-anchor="middle"
+            font-family="'JetBrains Mono',monospace" font-size="9" fill="#e0def4" opacity="0.85">
+        4%
+      </text>
+    </g>
+</svg>

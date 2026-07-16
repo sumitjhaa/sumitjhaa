@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 414" width="100%">
+  <defs>
+    <linearGradient id="lgBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#191724"/>
+      <stop offset="100%" stop-color="#1f1d2e"/>
+    </linearGradient>
+    <style>
+      @keyframes fadeBadge {
+        from { opacity: 0; transform: scale(0.95); }
+        to   { opacity: 1; transform: scale(1); }
+      }
+    </style>
+  </defs>
+
+  <!-- lang_grid -->
+  <rect width="400" height="250" rx="8" fill="url(#lgBg)" stroke="#403d52" stroke-width="1"/>
+
+  <g opacity="0" style="animation:fadeBadge 0.3s 0.1s forwards">
+    <rect x="10" y="10" width="154.47" height="230" rx="3" fill="#3572A5" opacity="0.9"/>
+    <text x="87" y="122" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="14" fill="#e0def4" font-weight="bold">Python</text>
+    <text x="87" y="139" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13" fill="#e0def4" opacity="0.85">41%</text>
+  </g>
+
+  <g opacity="0" style="animation:fadeBadge 0.3s 0.16s forwards">
+    <rect x="164.47" y="10" width="92.68" height="230" rx="3" fill="#f1e05a" opacity="0.9"/>
+    <text x="210.47" y="122" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="14" fill="#191724" font-weight="bold">JavaScript</text>
+    <text x="210.47" y="139" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13" fill="#191724" opacity="0.85">24%</text>
+  </g>
+
+  <g opacity="0" style="animation:fadeBadge 0.3s 0.22s forwards">
+    <rect x="257.15" y="10" width="132.85" height="106.98" rx="3" fill="#3178c6" opacity="0.9"/>
+    <text x="323.15" y="60" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="14" fill="#e0def4" font-weight="bold">TypeScript</text>
+    <text x="323.15" y="77" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13" fill="#e0def4" opacity="0.85">16%</text>
+  </g>
+
+  <g opacity="0" style="animation:fadeBadge 0.3s 0.28s forwards">
+    <rect x="257.15" y="116.98" width="132.85" height="53.49" rx="3" fill="#f34b7d" opacity="0.9"/>
+    <text x="323.15" y="139.98" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10" fill="#191724" font-weight="bold">C++</text>
+    <text x="323.15" y="152.98" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="9" fill="#191724" opacity="0.85">8%</text>
+  </g>
+
+  <g opacity="0" style="animation:fadeBadge 0.3s 0.34s forwards">
+    <rect x="257.15" y="170.47" width="81.75" height="69.53" rx="3" fill="#e34c26" opacity="0.9"/>
+    <text x="297.15" y="201.47" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13" fill="#e0def4" font-weight="bold">HTML</text>
+    <text x="297.15" y="217.47" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12" fill="#e0def4" opacity="0.85">7%</text>
+  </g>
+
+  <g opacity="0" style="animation:fadeBadge 0.3s 0.4s forwards">
+    <rect x="338.91" y="170.47" width="51.09" height="69.53" rx="3" fill="#563d7c" opacity="0.9"/>
+    <text x="363.91" y="201.47" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10" fill="#e0def4" font-weight="bold">CSS</text>
+    <text x="363.91" y="214.47" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="9" fill="#e0def4" opacity="0.85">4%</text>
+  </g>
+
+  <!-- weekly_activity scaled to 400px width -->
+  <g transform="translate(0, 264)">
+    <rect width="400" height="144" rx="10" fill="url(#lgBg)" stroke="#403d52" stroke-width="1"/>
+
+    <rect x="15" y="96" width="44" height="0" rx="3" fill="#403d52" opacity="0.3"/>
+    <rect x="15" y="96" width="44" height="0" rx="3" fill="#f6c177" opacity="0.85">
+      <animate attributeName="height" from="0" to="43" dur="0.5s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+      <animate attributeName="y" from="96" to="53" dur="0.5s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+    </rect>
+    <text x="37" y="48" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8" fill="#908caa" opacity="0">12<animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.2s" fill="freeze"/></text>
+    <text x="37" y="110" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8" fill="#6e6a86">Mon</text>
+
+    <rect x="67" y="96" width="44" height="0" rx="3" fill="#403d52" opacity="0.3"/>
+    <rect x="67" y="96" width="44" height="0" rx="3" fill="#31748f" opacity="0.85">
+      <animate attributeName="height" from="0" to="28" dur="0.5s" begin="0.28s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+      <animate attributeName="y" from="96" to="68" dur="0.5s" begin="0.28s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+    </rect>
+    <text x="89" y="63" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8" fill="#908caa" opacity="0">8<animate attributeName="opacity" from="0" to="1" begin="0.58s" dur="0.2s" fill="freeze"/></text>
+    <text x="89" y="110" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8" fill="#6e6a86">Tue</text>
+
+    <rect x="119" y="96" width="44" height="0" rx="3" fill="#403d52" opacity="0.3"/>
+    <rect x="119" y="96" width="44" height="0" rx="3" fill="#eb6f92" opacity="0.85">
+      <animate attributeName="height" from="0" to="54" dur="0.5s" begin="0.36s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+      <animate attributeName="y" from="96" to="42" dur="0.5s" begin="0.36s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+    </rect>
+    <text x="141" y="37" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8" fill="#908caa" opacity="0">15<animate attributeName="opacity" from="0" to="1" begin="0.66s" dur="0.2s" fill="freeze"/></text>
+    <text x="141" y="110" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8" fill="#6e6a86">Wed</text>
+
+    <rect x="171" y="96" width="44" height="0" rx="3" fill="#403d52" opacity="0.3"/>
+    <rect x="171" y="96" width="44" height="0" rx="3" fill="#31748f" opacity="0.85">
+      <animate attributeName="height" from="0" to="18" dur="0.5s" begin="0.44s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+      <animate attributeName="y" from="96" to="78" dur="0.5s" begin="0.44s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+    </rect>
+    <text x="193" y="73" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8" fill="#908caa" opacity="0">5<animate attributeName="opacity" from="0" to="1" begin="0.74s" dur="0.2s" fill="freeze"/></text>
+    <text x="193" y="110" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8" fill="#6e6a86">Thu</text>
+
+    <rect x="223" y="96" width="44" height="0" rx="3" fill="#403d52" opacity="0.3"/>
+    <rect x="223" y="96" width="44" height="0" rx="3" fill="#eb6f92" opacity="0.85">
+      <animate attributeName="height" from="0" to="72" dur="0.5s" begin="0.52s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+      <animate attributeName="y" from="96" to="24" dur="0.5s" begin="0.52s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+    </rect>
+    <text x="245" y="19" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8" fill="#908caa" opacity="0">20<animate attributeName="opacity" from="0" to="1" begin="0.82s" dur="0.2s" fill="freeze"/></text>
+    <text x="245" y="110" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8" fill="#6e6a86">Fri</text>
+
+    <rect x="275" y="96" width="44" height="0" rx="3" fill="#403d52" opacity="0.3"/>
+    <rect x="275" y="96" width="44" height="0" rx="3" fill="#26233a" opacity="0.85">
+      <animate attributeName="height" from="0" to="10" dur="0.5s" begin="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+      <animate attributeName="y" from="96" to="86" dur="0.5s" begin="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+    </rect>
+    <text x="297" y="81" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8" fill="#908caa" opacity="0">3<animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.2s" fill="freeze"/></text>
+    <text x="297" y="110" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8" fill="#6e6a86">Sat</text>
+
+    <rect x="327" y="96" width="44" height="0" rx="3" fill="#403d52" opacity="0.3"/>
+    <rect x="327" y="96" width="44" height="0" rx="3" fill="#26233a" opacity="0.85">
+      <animate attributeName="height" from="0" to="3" dur="0.5s" begin="0.68s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+      <animate attributeName="y" from="96" to="93" dur="0.5s" begin="0.68s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+    </rect>
+    <text x="349" y="88" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8" fill="#908caa" opacity="0">1<animate attributeName="opacity" from="0" to="1" begin="0.98s" dur="0.2s" fill="freeze"/></text>
+    <text x="349" y="110" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="8" fill="#6e6a86">Sun</text>
+
+    <text x="200" y="136" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="9" fill="#908caa">64 commits this week</text>
+  </g>
+</svg>

@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 144" width="488" height="144">
+  <defs>
+    <linearGradient id="wkBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#191724"/>
+      <stop offset="100%" stop-color="#1f1d2e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="488" height="144" rx="10" fill="url(#wkBg)" stroke="#403d52" stroke-width="1"/>
+
+  
+    <rect x="48" y="96" width="54" height="0" rx="3" fill="#403d52" opacity="0.3"/>
+    <rect x="48" y="96" width="54" height="0" rx="3" fill="#f6c177" opacity="0.85">
+      <animate attributeName="height" from="0" to="43" dur="0.5s"
+        begin="0.2s" fill="freeze" calcMode="spline"
+        keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+      <animate attributeName="y" from="96" to="53" dur="0.5s"
+        begin="0.2s" fill="freeze" calcMode="spline"
+        keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+    </rect>
+    <text x="75" y="48" text-anchor="middle" font-family="'JetBrains Mono',monospace"
+          font-size="8" fill="#908caa" opacity="0">
+      12
+      <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.2s" fill="freeze"/>
+    </text>
+    <text x="75" y="110" text-anchor="middle" font-family="'JetBrains Mono',monospace"
+          font-size="8" fill="#6e6a86">Mon</text>
+
+    <rect x="108" y="96" width="54" height="0" rx="3" fill="#403d52" opacity="0.3"/>
+    <rect x="108" y="96" width="54" height="0" rx="3" fill="#31748f" opacity="0.85">
+      <animate attributeName="height" from="0" to="28" dur="0.5s"
+        begin="0.28s" fill="freeze" calcMode="spline"
+        keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+      <animate attributeName="y" from="96" to="68" dur="0.5s"
+        begin="0.28s" fill="freeze" calcMode="spline"
+        keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+    </rect>
+    <text x="135" y="63" text-anchor="middle" font-family="'JetBrains Mono',monospace"
+          font-size="8" fill="#908caa" opacity="0">
+      8
+      <animate attributeName="opacity" from="0" to="1" begin="0.5800000000000001s" dur="0.2s" fill="freeze"/>
+    </text>
+    <text x="135" y="110" text-anchor="middle" font-family="'JetBrains Mono',monospace"
+          font-size="8" fill="#6e6a86">Tue</text>
+
+    <rect x="168" y="96" width="54" height="0" rx="3" fill="#403d52" opacity="0.3"/>
+    <rect x="168" y="96" width="54" height="0" rx="3" fill="#eb6f92" opacity="0.85">
+      <animate attributeName="height" from="0" to="54" dur="0.5s"
+        begin="0.36s" fill="freeze" calcMode="spline"
+        keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+      <animate attributeName="y" from="96" to="42" dur="0.5s"
+        begin="0.36s" fill="freeze" calcMode="spline"
+        keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+    </rect>
+    <text x="195" y="37" text-anchor="middle" font-family="'JetBrains Mono',monospace"
+          font-size="8" fill="#908caa" opacity="0">
+      15
+      <animate attributeName="opacity" from="0" to="1" begin="0.6599999999999999s" dur="0.2s" fill="freeze"/>
+    </text>
+    <text x="195" y="110" text-anchor="middle" font-family="'JetBrains Mono',monospace"
+          font-size="8" fill="#6e6a86">Wed</text>
+
+    <rect x="228" y="96" width="54" height="0" rx="3" fill="#403d52" opacity="0.3"/>
+    <rect x="228" y="96" width="54" height="0" rx="3" fill="#31748f" opacity="0.85">
+      <animate attributeName="height" from="0" to="18" dur="0.5s"
+        begin="0.44s" fill="freeze" calcMode="spline"
+        keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+      <animate attributeName="y" from="96" to="78" dur="0.5s"
+        begin="0.44s" fill="freeze" calcMode="spline"
+        keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+    </rect>
+    <text x="255" y="73" text-anchor="middle" font-family="'JetBrains Mono',monospace"
+          font-size="8" fill="#908caa" opacity="0">
+      5
+      <animate attributeName="opacity" from="0" to="1" begin="0.74s" dur="0.2s" fill="freeze"/>
+    </text>
+    <text x="255" y="110" text-anchor="middle" font-family="'JetBrains Mono',monospace"
+          font-size="8" fill="#6e6a86">Thu</text>
+
+    <rect x="288" y="96" width="54" height="0" rx="3" fill="#403d52" opacity="0.3"/>
+    <rect x="288" y="96" width="54" height="0" rx="3" fill="#eb6f92" opacity="0.85">
+      <animate attributeName="height" from="0" to="72" dur="0.5s"
+        begin="0.52s" fill="freeze" calcMode="spline"
+        keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+      <animate attributeName="y" from="96" to="24" dur="0.5s"
+        begin="0.52s" fill="freeze" calcMode="spline"
+        keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+    </rect>
+    <text x="315" y="19" text-anchor="middle" font-family="'JetBrains Mono',monospace"
+          font-size="8" fill="#908caa" opacity="0">
+      20
+      <animate attributeName="opacity" from="0" to="1" begin="0.8200000000000001s" dur="0.2s" fill="freeze"/>
+    </text>
+    <text x="315" y="110" text-anchor="middle" font-family="'JetBrains Mono',monospace"
+          font-size="8" fill="#6e6a86">Fri</text>
+
+    <rect x="348" y="96" width="54" height="0" rx="3" fill="#403d52" opacity="0.3"/>
+    <rect x="348" y="96" width="54" height="0" rx="3" fill="#26233a" opacity="0.85">
+      <animate attributeName="height" from="0" to="10" dur="0.5s"
+        begin="0.6s" fill="freeze" calcMode="spline"
+        keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+      <animate attributeName="y" from="96" to="86" dur="0.5s"
+        begin="0.6s" fill="freeze" calcMode="spline"
+        keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+    </rect>
+    <text x="375" y="81" text-anchor="middle" font-family="'JetBrains Mono',monospace"
+          font-size="8" fill="#908caa" opacity="0">
+      3
+      <animate attributeName="opacity" from="0" to="1" begin="0.8999999999999999s" dur="0.2s" fill="freeze"/>
+    </text>
+    <text x="375" y="110" text-anchor="middle" font-family="'JetBrains Mono',monospace"
+          font-size="8" fill="#6e6a86">Sat</text>
+
+    <rect x="408" y="96" width="54" height="0" rx="3" fill="#403d52" opacity="0.3"/>
+    <rect x="408" y="96" width="54" height="0" rx="3" fill="#26233a" opacity="0.85">
+      <animate attributeName="height" from="0" to="3" dur="0.5s"
+        begin="0.68s" fill="freeze" calcMode="spline"
+        keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+      <animate attributeName="y" from="96" to="93" dur="0.5s"
+        begin="0.68s" fill="freeze" calcMode="spline"
+        keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+    </rect>
+    <text x="435" y="88" text-anchor="middle" font-family="'JetBrains Mono',monospace"
+          font-size="8" fill="#908caa" opacity="0">
+      1
+      <animate attributeName="opacity" from="0" to="1" begin="0.98s" dur="0.2s" fill="freeze"/>
+    </text>
+    <text x="435" y="110" text-anchor="middle" font-family="'JetBrains Mono',monospace"
+          font-size="8" fill="#6e6a86">Sun</text>
+
+  <text x="244" y="136" text-anchor="middle" font-family="'JetBrains Mono',monospace"
+        font-size="9" fill="#908caa">64 commits this week</text>
+</svg>
