@@ -3,7 +3,7 @@
 <pre>
 ※ sumitjhaa ──────────────────────────────────────────────
     OS.......................  Fedora, windows 11, Android 16
-    Uptime...................  <!--UPTIME-->26 years, 0 months, 6 days<!--/UPTIME-->
+    Uptime...................  <!--UPTIME-->26 years, 0 months, 7 days<!--/UPTIME-->
     Host.....................  Xorpass Tech. Corp
     Undergrad................  MNNIT Allahabad, Prayagraj
     IDE......................  zed, nano, vim, jupyter
@@ -31,7 +31,7 @@
     Repos....................  <!--REPOS-->25<!--/REPOS-->
     Stars....................  <!--STARS-->0<!--/STARS-->
     Commits..................  <!--COMMITS-->459<!--/COMMITS-->
-    Followers................  <!--FOLLOWERS-->2<!--/FOLLOWERS-->
+    Followers................  <!--FOLLOWERS-->1<!--/FOLLOWERS-->
     PRs......................  <!--PR_ISSUES-->2<!--/PR_ISSUES-->
     Issues...................  <!--ISSUES-->1<!--/ISSUES-->
     Top Languages............  <!--LANGUAGES-->JavaScript, TypeScript, Python, HTML, Jupyter Notebook<!--/LANGUAGES-->
