@@ -3,7 +3,7 @@
 <pre>
 ※ sumitjhaa ──────────────────────────────────────────────
     OS.......................  Fedora, windows 11, Android 16
-    Uptime...................  <!--UPTIME-->26 years, 0 months, 12 days<!--/UPTIME-->
+    Uptime...................  <!--UPTIME-->26 years, 0 months, 13 days<!--/UPTIME-->
     Host.....................  Xorpass Tech. Corp
     Undergrad................  MNNIT Allahabad, Prayagraj
     IDE......................  zed, nano, vim, jupyter
@@ -28,12 +28,12 @@
     Github...................  <a href="https://github.com/sumitjhaa">sumitjhaa</a>
 
 ※ GitHub Stats ───────────────────────────────────────────
-    Repos....................  <!--REPOS-->25<!--/REPOS-->
+    Repos....................  <!--REPOS-->26<!--/REPOS-->
     Stars....................  <!--STARS-->0<!--/STARS-->
-    Commits..................  <!--COMMITS-->459<!--/COMMITS-->
-    Followers................  <!--FOLLOWERS-->1<!--/FOLLOWERS-->
+    Commits..................  <!--COMMITS-->462<!--/COMMITS-->
+    Followers................  <!--FOLLOWERS-->2<!--/FOLLOWERS-->
     PRs......................  <!--PR_ISSUES-->2<!--/PR_ISSUES-->
     Issues...................  <!--ISSUES-->1<!--/ISSUES-->
     Top Languages............  <!--LANGUAGES-->JavaScript, TypeScript, Python, HTML, Jupyter Notebook<!--/LANGUAGES-->
-    Lines of Code............  <!--LOC_START-->170.8K lines (8.1 MB)<!--LOC_END-->
+    Lines of Code............  <!--LOC_START-->175.9K lines (8.4 MB)<!--LOC_END-->
 </pre>
