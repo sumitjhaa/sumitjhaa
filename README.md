@@ -3,7 +3,7 @@
 <pre>
 ※ sumitjhaa ──────────────────────────────────────────────
     OS.......................  Fedora, windows 11, Android 16
-    Uptime...................  <!--UPTIME-->26 years, 3 months, 5 days<!--/UPTIME-->
+    Uptime...................  <!--UPTIME-->26 years, 3 months, 6 days<!--/UPTIME-->
     Host.....................  Xorpass Tech. Corp
     Undergrad................  MNNIT Allahabad, Prayagraj
     IDE......................  zed, nano, vim, jupyter
@@ -28,7 +28,7 @@
     Github...................  <a href="https://github.com/sumitjhaa">sumitjhaa</a>
 
 ※ GitHub Stats ───────────────────────────────────────────
-    Repos....................  <!--REPOS-->14<!--/REPOS-->
+    Repos....................  <!--REPOS-->15<!--/REPOS-->
     Stars....................  <!--STARS-->0<!--/STARS-->
     Commits..................  <!--COMMITS-->335<!--/COMMITS-->
     Followers................  <!--FOLLOWERS-->3<!--/FOLLOWERS-->
