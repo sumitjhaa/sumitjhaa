@@ -16,104 +16,104 @@
 
   
     <g opacity="0" style="animation:fadeBadge 0.3s 0.1s forwards">
-      <rect x="10" y="10" width="306.7163238743032" height="230" rx="3"
+      <rect x="10" y="10" width="301.04387478700005" height="230" rx="3"
             fill="#c4a7e7" opacity="0.9"/>
-      <text x="163.0" y="122" text-anchor="middle"
+      <text x="160.0" y="122" text-anchor="middle"
             font-family="'JetBrains Mono',monospace" font-size="14" fill="#191724" font-weight="bold">
         Jupyter Notebook
       </text>
-      <text x="163.0" y="139" text-anchor="middle"
+      <text x="160.0" y="139" text-anchor="middle"
             font-family="'JetBrains Mono',monospace" font-size="13" fill="#191724" opacity="0.85">
-        80%
+        79%
       </text>
     </g>
 
     <g opacity="0" style="animation:fadeBadge 0.3s 0.16s forwards">
-      <rect x="316.7163238743032" y="10" width="31.60995806229795" height="230" rx="3"
+      <rect x="311.04387478700005" y="10" width="35.34731385611127" height="230" rx="3"
             fill="#3178c6" opacity="0.9"/>
-      <text x="331.7163238743032" y="122" text-anchor="middle"
+      <text x="328.04387478700005" y="122" text-anchor="middle"
             font-family="'JetBrains Mono',monospace" font-size="8" fill="#e0def4" font-weight="bold">
         TypeScript
       </text>
-      <text x="331.7163238743032" y="133" text-anchor="middle"
+      <text x="328.04387478700005" y="133" text-anchor="middle"
             font-family="'JetBrains Mono',monospace" font-size="7" fill="#e0def4" opacity="0.85">
-        8%
+        9%
       </text>
     </g>
 
     <g opacity="0" style="animation:fadeBadge 0.3s 0.22s forwards">
-      <rect x="348.32628193660116" y="10" width="41.67371806339884" height="98.16136329942019" rx="3"
+      <rect x="346.3911886431113" y="10" width="43.60881135688868" height="104.89651935625501" rx="3"
             fill="#f1e05a" opacity="0.9"/>
-      <text x="368.32628193660116" y="56.0" text-anchor="middle"
+      <text x="367.3911886431113" y="59.0" text-anchor="middle"
             font-family="'JetBrains Mono',monospace" font-size="8" fill="#191724" font-weight="bold">
         JavaScript
       </text>
-      <text x="368.32628193660116" y="67.0" text-anchor="middle"
+      <text x="367.3911886431113" y="70.0" text-anchor="middle"
             font-family="'JetBrains Mono',monospace" font-size="7" fill="#191724" opacity="0.85">
         5%
       </text>
     </g>
 
     <g opacity="0" style="animation:fadeBadge 0.3s 0.28s forwards">
-      <rect x="348.32628193660116" y="108.16136329942019" width="41.67371806339884" height="61.95258315568863" rx="3"
+      <rect x="346.3911886431113" y="114.89651935625501" width="43.60881135688868" height="57.814389097602074" rx="3"
             fill="#3572A5" opacity="0.9"/>
-      <text x="368.32628193660116" y="135.1613632994202" text-anchor="middle"
+      <text x="367.3911886431113" y="139.896519356255" text-anchor="middle"
             font-family="'JetBrains Mono',monospace" font-size="8" fill="#e0def4" font-weight="bold">
         Python
       </text>
-      <text x="368.32628193660116" y="146.1613632994202" text-anchor="middle"
+      <text x="367.3911886431113" y="150.896519356255" text-anchor="middle"
             font-family="'JetBrains Mono',monospace" font-size="7" fill="#e0def4" opacity="0.85">
         3%
       </text>
     </g>
 
     <g opacity="0" style="animation:fadeBadge 0.3s 0.34s forwards">
-      <rect x="348.32628193660116" y="170.11394645510882" width="41.67371806339884" height="27.549054481478983" rx="3"
-            fill="#c4a7e7" opacity="0.9"/>
-      <text x="368.32628193660116" y="180.11394645510882" text-anchor="middle"
-            font-family="'JetBrains Mono',monospace" font-size="8" fill="#191724" font-weight="bold">
-        TeX
-      </text>
-      <text x="368.32628193660116" y="191.11394645510882" text-anchor="middle"
-            font-family="'JetBrains Mono',monospace" font-size="7" fill="#191724" opacity="0.85">
-        1%
-      </text>
-    </g>
-
-    <g opacity="0" style="animation:fadeBadge 0.3s 0.4s forwards">
-      <rect x="348.32628193660116" y="197.6630009365878" width="41.67371806339884" height="22.980413626719923" rx="3"
+      <rect x="346.3911886431113" y="172.7109084538571" width="43.60881135688868" height="24.557171190227468" rx="3"
             fill="#563d7c" opacity="0.9"/>
-      <text x="368.32628193660116" y="205.6630009365878" text-anchor="middle"
+      <text x="367.3911886431113" y="181.7109084538571" text-anchor="middle"
             font-family="'JetBrains Mono',monospace" font-size="8" fill="#e0def4" font-weight="bold">
         CSS
       </text>
-      <text x="368.32628193660116" y="216.6630009365878" text-anchor="middle"
+      <text x="367.3911886431113" y="192.7109084538571" text-anchor="middle"
             font-family="'JetBrains Mono',monospace" font-size="7" fill="#e0def4" opacity="0.85">
         1%
       </text>
     </g>
 
+    <g opacity="0" style="animation:fadeBadge 0.3s 0.4s forwards">
+      <rect x="346.3911886431113" y="197.26807964408457" width="43.60881135688868" height="22.047219464612848" rx="3"
+            fill="#c4a7e7" opacity="0.9"/>
+      <text x="367.3911886431113" y="205.26807964408457" text-anchor="middle"
+            font-family="'JetBrains Mono',monospace" font-size="8" fill="#191724" font-weight="bold">
+        TeX
+      </text>
+      <text x="367.3911886431113" y="216.26807964408457" text-anchor="middle"
+            font-family="'JetBrains Mono',monospace" font-size="7" fill="#191724" opacity="0.85">
+        1%
+      </text>
+    </g>
+
     <g opacity="0" style="animation:fadeBadge 0.3s 0.46s forwards">
-      <rect x="348.32628193660116" y="220.64341456330772" width="30.287988898376213" height="19.356585436692278" rx="3"
+      <rect x="346.3911886431113" y="219.3152991086974" width="31.694392908245895" height="20.684700891302597" rx="3"
             fill="#e34c26" opacity="0.9"/>
-      <text x="363.32628193660116" y="226.64341456330772" text-anchor="middle"
+      <text x="361.3911886431113" y="226.3152991086974" text-anchor="middle"
             font-family="'JetBrains Mono',monospace" font-size="8" fill="#e0def4" font-weight="bold">
         HTML
       </text>
-      <text x="363.32628193660116" y="237.64341456330772" text-anchor="middle"
+      <text x="361.3911886431113" y="237.3152991086974" text-anchor="middle"
             font-family="'JetBrains Mono',monospace" font-size="7" fill="#e0def4" opacity="0.85">
         1%
       </text>
     </g>
 
     <g opacity="0" style="animation:fadeBadge 0.3s 0.52s forwards">
-      <rect x="378.6142708349774" y="220.64341456330772" width="11.385729165022624" height="19.356585436692278" rx="3"
+      <rect x="378.0855815513572" y="219.3152991086974" width="11.914418448642785" height="20.684700891302597" rx="3"
             fill="#c4a7e7" opacity="0.9"/>
-      <text x="383.6142708349774" y="226.64341456330772" text-anchor="middle"
+      <text x="383.0855815513572" y="226.3152991086974" text-anchor="middle"
             font-family="'JetBrains Mono',monospace" font-size="8" fill="#191724" font-weight="bold">
         BibTeX Style
       </text>
-      <text x="383.6142708349774" y="237.64341456330772" text-anchor="middle"
+      <text x="383.0855815513572" y="237.3152991086974" text-anchor="middle"
             font-family="'JetBrains Mono',monospace" font-size="7" fill="#191724" opacity="0.85">
         0%
       </text>
